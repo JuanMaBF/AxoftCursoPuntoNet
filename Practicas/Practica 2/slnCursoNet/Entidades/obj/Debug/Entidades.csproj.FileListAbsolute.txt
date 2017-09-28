@@ -3,3 +3,8 @@ C:\Users\cursonet\Desktop\Clase 1\Prácticas\Practica 1\slnCursoNet\Entidades\bi
 C:\Users\cursonet\Desktop\Clase 1\Prácticas\Practica 1\slnCursoNet\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
 C:\Users\cursonet\Desktop\Clase 1\Prácticas\Practica 1\slnCursoNet\Entidades\obj\Debug\Entidades.dll
 C:\Users\cursonet\Desktop\Clase 1\Prácticas\Practica 1\slnCursoNet\Entidades\obj\Debug\Entidades.pdb
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Practica 2\slnCursoNet\Entidades\bin\Debug\Entidades.dll
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Practica 2\slnCursoNet\Entidades\bin\Debug\Entidades.pdb
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Practica 2\slnCursoNet\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Practica 2\slnCursoNet\Entidades\obj\Debug\Entidades.dll
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Practica 2\slnCursoNet\Entidades\obj\Debug\Entidades.pdb

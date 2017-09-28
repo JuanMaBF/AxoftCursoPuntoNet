@@ -1,8 +1,0 @@
-C:\Users\Lenovo\Desktop\Telefónica\demostraciones\slnDemo\TestTemperatureConverter\bin\Debug\TestTemperatureConverter.exe.config
-C:\Users\Lenovo\Desktop\Telefónica\demostraciones\slnDemo\TestTemperatureConverter\bin\Debug\TestTemperatureConverter.exe
-C:\Users\Lenovo\Desktop\Telefónica\demostraciones\slnDemo\TestTemperatureConverter\bin\Debug\TestTemperatureConverter.pdb
-C:\Users\Lenovo\Desktop\Telefónica\demostraciones\slnDemo\TestTemperatureConverter\bin\Debug\LibDemoStatic.dll
-C:\Users\Lenovo\Desktop\Telefónica\demostraciones\slnDemo\TestTemperatureConverter\bin\Debug\LibDemoStatic.pdb
-C:\Users\Lenovo\Desktop\Telefónica\demostraciones\slnDemo\TestTemperatureConverter\obj\Debug\TestTemperatureConverter.csprojResolveAssemblyReference.cache
-C:\Users\Lenovo\Desktop\Telefónica\demostraciones\slnDemo\TestTemperatureConverter\obj\Debug\TestTemperatureConverter.exe
-C:\Users\Lenovo\Desktop\Telefónica\demostraciones\slnDemo\TestTemperatureConverter\obj\Debug\TestTemperatureConverter.pdb

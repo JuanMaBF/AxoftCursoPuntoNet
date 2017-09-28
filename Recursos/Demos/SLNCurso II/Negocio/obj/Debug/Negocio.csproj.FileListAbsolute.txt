@@ -1,7 +1,0 @@
-D:\AXOFT NET\Demo\SLNCurso\Negocio\bin\Debug\Negocio.dll
-D:\AXOFT NET\Demo\SLNCurso\Negocio\bin\Debug\Negocio.pdb
-D:\AXOFT NET\Demo\SLNCurso\Negocio\bin\Debug\BO.dll
-D:\AXOFT NET\Demo\SLNCurso\Negocio\bin\Debug\BO.pdb
-D:\AXOFT NET\Demo\SLNCurso\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
-D:\AXOFT NET\Demo\SLNCurso\Negocio\obj\Debug\Negocio.dll
-D:\AXOFT NET\Demo\SLNCurso\Negocio\obj\Debug\Negocio.pdb

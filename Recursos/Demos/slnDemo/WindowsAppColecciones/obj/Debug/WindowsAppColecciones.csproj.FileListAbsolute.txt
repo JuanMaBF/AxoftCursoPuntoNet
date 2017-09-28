@@ -1,9 +1,0 @@
-C:\Users\Lenovo\Desktop\Telefónica\demostraciones\slnDemo\WindowsAppColecciones\bin\Debug\WindowsAppColecciones.exe.config
-C:\Users\Lenovo\Desktop\Telefónica\demostraciones\slnDemo\WindowsAppColecciones\bin\Debug\WindowsAppColecciones.exe
-C:\Users\Lenovo\Desktop\Telefónica\demostraciones\slnDemo\WindowsAppColecciones\bin\Debug\WindowsAppColecciones.pdb
-C:\Users\Lenovo\Desktop\Telefónica\demostraciones\slnDemo\WindowsAppColecciones\obj\Debug\WindowsAppColecciones.csprojResolveAssemblyReference.cache
-C:\Users\Lenovo\Desktop\Telefónica\demostraciones\slnDemo\WindowsAppColecciones\obj\Debug\WindowsAppColecciones.Properties.Resources.resources
-C:\Users\Lenovo\Desktop\Telefónica\demostraciones\slnDemo\WindowsAppColecciones\obj\Debug\WindowsAppColecciones.csproj.GenerateResource.Cache
-C:\Users\Lenovo\Desktop\Telefónica\demostraciones\slnDemo\WindowsAppColecciones\obj\Debug\WindowsAppColecciones.exe
-C:\Users\Lenovo\Desktop\Telefónica\demostraciones\slnDemo\WindowsAppColecciones\obj\Debug\WindowsAppColecciones.pdb
-C:\Users\Lenovo\Desktop\Telefónica\demostraciones\slnDemo\WindowsAppColecciones\obj\Debug\WindowsAppColecciones.Form1.resources

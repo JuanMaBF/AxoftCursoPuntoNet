@@ -1,8 +1,0 @@
-C:\Users\Lenovo\Desktop\telefonica\demostraciones\slnDemo\LibSeguridad\bin\Debug\LibSeguridad.dll
-C:\Users\Lenovo\Desktop\telefonica\demostraciones\slnDemo\LibSeguridad\bin\Debug\LibSeguridad.pdb
-C:\Users\Lenovo\Desktop\telefonica\demostraciones\slnDemo\LibSeguridad\obj\Debug\LibSeguridad.dll
-C:\Users\Lenovo\Desktop\telefonica\demostraciones\slnDemo\LibSeguridad\obj\Debug\LibSeguridad.pdb
-C:\Users\Lenovo\Desktop\Telefónica\demostraciones\slnDemo\LibSeguridad\bin\Debug\LibSeguridad.dll
-C:\Users\Lenovo\Desktop\Telefónica\demostraciones\slnDemo\LibSeguridad\bin\Debug\LibSeguridad.pdb
-C:\Users\Lenovo\Desktop\Telefónica\demostraciones\slnDemo\LibSeguridad\obj\Debug\LibSeguridad.dll
-C:\Users\Lenovo\Desktop\Telefónica\demostraciones\slnDemo\LibSeguridad\obj\Debug\LibSeguridad.pdb

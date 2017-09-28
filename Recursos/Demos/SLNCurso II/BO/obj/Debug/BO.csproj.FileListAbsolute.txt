@@ -1,5 +1,0 @@
-D:\AXOFT NET\Demo\SLNCurso\BO\bin\Debug\BO.dll
-D:\AXOFT NET\Demo\SLNCurso\BO\bin\Debug\BO.pdb
-D:\AXOFT NET\Demo\SLNCurso\BO\obj\Debug\BO.dll
-D:\AXOFT NET\Demo\SLNCurso\BO\obj\Debug\BO.pdb
-D:\AXOFT NET\Demo\SLNCurso\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
