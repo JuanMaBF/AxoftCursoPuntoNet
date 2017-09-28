@@ -1,0 +1,4 @@
+-Agregar la clase Persona
+-Pasar las propiedades que tienen en común Alumno	 y Profesor a la clase padre
+-Aplicar herencia en Alumno y en Profesor
+-Definir los constructores con parametros

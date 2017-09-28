@@ -1,2 +1,0 @@
-# AxoftCursoPuntoNet
-Curso de .Net 

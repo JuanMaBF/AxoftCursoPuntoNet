@@ -1,0 +1,11 @@
+C:\Users\cursonet\Desktop\Clase 1\Prácticas\Practica 1\slnCursoNet\WindowsApp\bin\Debug\WindowsApp.exe.config
+C:\Users\cursonet\Desktop\Clase 1\Prácticas\Practica 1\slnCursoNet\WindowsApp\bin\Debug\WindowsApp.exe
+C:\Users\cursonet\Desktop\Clase 1\Prácticas\Practica 1\slnCursoNet\WindowsApp\bin\Debug\WindowsApp.pdb
+C:\Users\cursonet\Desktop\Clase 1\Prácticas\Practica 1\slnCursoNet\WindowsApp\bin\Debug\Entidades.dll
+C:\Users\cursonet\Desktop\Clase 1\Prácticas\Practica 1\slnCursoNet\WindowsApp\bin\Debug\Entidades.pdb
+C:\Users\cursonet\Desktop\Clase 1\Prácticas\Practica 1\slnCursoNet\WindowsApp\obj\Debug\WindowsApp.csprojResolveAssemblyReference.cache
+C:\Users\cursonet\Desktop\Clase 1\Prácticas\Practica 1\slnCursoNet\WindowsApp\obj\Debug\WindowsApp.Form1.resources
+C:\Users\cursonet\Desktop\Clase 1\Prácticas\Practica 1\slnCursoNet\WindowsApp\obj\Debug\WindowsApp.Properties.Resources.resources
+C:\Users\cursonet\Desktop\Clase 1\Prácticas\Practica 1\slnCursoNet\WindowsApp\obj\Debug\WindowsApp.csproj.GenerateResource.Cache
+C:\Users\cursonet\Desktop\Clase 1\Prácticas\Practica 1\slnCursoNet\WindowsApp\obj\Debug\WindowsApp.exe
+C:\Users\cursonet\Desktop\Clase 1\Prácticas\Practica 1\slnCursoNet\WindowsApp\obj\Debug\WindowsApp.pdb

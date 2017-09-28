@@ -1,0 +1,7 @@
+C:\Users\GGG\Desktop\Curso de .NET\Fase 02 C_\Fase 02 C#\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\GGG\Desktop\Curso de .NET\Fase 02 C_\Fase 02 C#\Negocio\bin\Debug\Negocio.dll
+C:\Users\GGG\Desktop\Curso de .NET\Fase 02 C_\Fase 02 C#\Negocio\bin\Debug\Negocio.pdb
+C:\Users\GGG\Desktop\Curso de .NET\Fase 02 C_\Fase 02 C#\Negocio\bin\Debug\Entidades.dll
+C:\Users\GGG\Desktop\Curso de .NET\Fase 02 C_\Fase 02 C#\Negocio\bin\Debug\Entidades.pdb
+C:\Users\GGG\Desktop\Curso de .NET\Fase 02 C_\Fase 02 C#\Negocio\obj\Debug\Negocio.dll
+C:\Users\GGG\Desktop\Curso de .NET\Fase 02 C_\Fase 02 C#\Negocio\obj\Debug\Negocio.pdb

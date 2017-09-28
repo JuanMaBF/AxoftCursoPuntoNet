@@ -1,0 +1,4 @@
+C:\Users\Lenovo\Desktop\Telefónica\demostraciones\slnDemo\LibDemoStatic\bin\Debug\LibDemoStatic.dll
+C:\Users\Lenovo\Desktop\Telefónica\demostraciones\slnDemo\LibDemoStatic\bin\Debug\LibDemoStatic.pdb
+C:\Users\Lenovo\Desktop\Telefónica\demostraciones\slnDemo\LibDemoStatic\obj\Debug\LibDemoStatic.dll
+C:\Users\Lenovo\Desktop\Telefónica\demostraciones\slnDemo\LibDemoStatic\obj\Debug\LibDemoStatic.pdb

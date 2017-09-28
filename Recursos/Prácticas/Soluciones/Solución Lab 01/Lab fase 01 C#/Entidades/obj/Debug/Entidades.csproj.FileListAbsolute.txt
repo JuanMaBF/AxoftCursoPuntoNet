@@ -1,0 +1,10 @@
+C:\Users\Pablo\SkyDrive\Projects\IntegradorCS\Fase01\Entidades\bin\Debug\Entidades.dll
+C:\Users\Pablo\SkyDrive\Projects\IntegradorCS\Fase01\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Pablo\SkyDrive\Projects\IntegradorCS\Fase01\Entidades\obj\Debug\Entidades.dll
+C:\Users\Pablo\SkyDrive\Projects\IntegradorCS\Fase01\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Pablo\SkyDrive\Projects\IntegradorCS\Fase01\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase01\Entidades\bin\Debug\Entidades.dll
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase01\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase01\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase01\Entidades\obj\Debug\Entidades.dll
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase01\Entidades\obj\Debug\Entidades.pdb

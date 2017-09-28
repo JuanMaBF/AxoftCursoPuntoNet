@@ -1,0 +1,21 @@
+C:\Users\Pablo\SkyDrive\Projects\IntegradorCS\Fase03\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase03\Negocio\bin\Debug\Negocio.dll
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase03\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase03\Negocio\bin\Debug\Entidades.dll
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase03\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase03\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase03\Negocio\obj\Debug\Negocio.dll
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase03\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase04\Negocio\bin\Debug\Negocio.dll
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase04\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase04\Negocio\bin\Debug\Entidades.dll
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase04\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase04\Negocio\obj\Debug\Negocio.dll
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase04\Negocio\obj\Debug\Negocio.pdb
+C:\Users\GGG\Desktop\Curso de .NET\Fase 04 C_\Fase 04 C#\Negocio\bin\Debug\Negocio.dll
+C:\Users\GGG\Desktop\Curso de .NET\Fase 04 C_\Fase 04 C#\Negocio\bin\Debug\Negocio.pdb
+C:\Users\GGG\Desktop\Curso de .NET\Fase 04 C_\Fase 04 C#\Negocio\bin\Debug\Entidades.dll
+C:\Users\GGG\Desktop\Curso de .NET\Fase 04 C_\Fase 04 C#\Negocio\bin\Debug\Entidades.pdb
+C:\Users\GGG\Desktop\Curso de .NET\Fase 04 C_\Fase 04 C#\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\GGG\Desktop\Curso de .NET\Fase 04 C_\Fase 04 C#\Negocio\obj\Debug\Negocio.dll
+C:\Users\GGG\Desktop\Curso de .NET\Fase 04 C_\Fase 04 C#\Negocio\obj\Debug\Negocio.pdb

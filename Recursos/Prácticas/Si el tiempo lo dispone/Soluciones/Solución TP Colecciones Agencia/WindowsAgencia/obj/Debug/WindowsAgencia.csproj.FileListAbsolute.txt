@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\Telefónica\demostraciones\slnDemo\WindowsAgencia\bin\Debug\WindowsAgencia.exe.config
+C:\Users\Lenovo\Desktop\Telefónica\demostraciones\slnDemo\WindowsAgencia\bin\Debug\WindowsAgencia.exe
+C:\Users\Lenovo\Desktop\Telefónica\demostraciones\slnDemo\WindowsAgencia\bin\Debug\WindowsAgencia.pdb
+C:\Users\Lenovo\Desktop\Telefónica\demostraciones\slnDemo\WindowsAgencia\obj\Debug\WindowsAgencia.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Telefónica\demostraciones\slnDemo\WindowsAgencia\obj\Debug\WindowsAgencia.Form1.resources
+C:\Users\Lenovo\Desktop\Telefónica\demostraciones\slnDemo\WindowsAgencia\obj\Debug\WindowsAgencia.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Telefónica\demostraciones\slnDemo\WindowsAgencia\obj\Debug\WindowsAgencia.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Telefónica\demostraciones\slnDemo\WindowsAgencia\obj\Debug\WindowsAgencia.exe
+C:\Users\Lenovo\Desktop\Telefónica\demostraciones\slnDemo\WindowsAgencia\obj\Debug\WindowsAgencia.pdb
+C:\Users\Lenovo\Desktop\Telefónica\demostraciones\slnDemo\WindowsAgencia\obj\Debug\WindowsAgencia.formAuto.resources
