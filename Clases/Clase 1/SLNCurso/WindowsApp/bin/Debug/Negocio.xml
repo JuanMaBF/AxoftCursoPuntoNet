@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Negocio</name>
+    </assembly>
+    <members>
+        <member name="M:Negocio.AdminAlumno.TraerTodos">
+            <summary>
+            Retornar todos los alumnos
+            </summary>
+            <returns>Lista genérica de Alumnos</returns>
+        </member>
+        <member name="M:Negocio.AdminAlumno.TraerTodos(System.String)">
+            <summary>
+            Retorna todos los alumnos de la ciudad que recibe
+            </summary>
+            <param name="ciudad">Ciudad. Ej: "Quilmes"</param>
+            <returns>Lista genérica de Alumnos</returns>
+        </member>
+        <member name="M:Negocio.AdminProfesor.TraerTodos">
+            <summary>
+            Trae todos los profesores
+            </summary>
+            <returns>Lista generica de Profesor</returns>
+        </member>
+        <member name="M:Negocio.AdminProfesor.TraerTodos(System.String)">
+            <summary>
+            Trae todos los profesores con esa especialidad
+            </summary>
+            <param name="especialidad">Especialidad. Ej: "Matemáticas"</param>
+            <returns>Lista genérica de Profesor</returns>
+        </member>
+    </members>
+</doc>
