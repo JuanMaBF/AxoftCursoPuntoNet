@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F64240EB-6FD9-4E67-88DE-9CB4BFD4FF6C}</ProjectGuid>
+    <ProjectGuid>{949EC51D-0734-452D-8829-5E88043368FD}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Negocio</RootNamespace>
@@ -40,16 +40,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AdmClientes.cs" />
-    <Compile Include="AdmCompras.cs" />
-    <Compile Include="AdmFacturas.cs" />
-    <Compile Include="AdmProductos.cs" />
-    <Compile Include="AdmRemitos.cs" />
+    <Compile Include="AdmBase.cs" />
+    <Compile Include="AdmMedico.cs" />
+    <Compile Include="AdmPaciente.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Entidades\Entidades.csproj">
-      <Project>{ba530c7e-c93e-42a7-ad72-8675ffb04a42}</Project>
+    <ProjectReference Include="..\ent\Entidades.csproj">
+      <Project>{c2a60430-50bc-4f31-9e6a-a23e9734d310}</Project>
       <Name>Entidades</Name>
     </ProjectReference>
   </ItemGroup>

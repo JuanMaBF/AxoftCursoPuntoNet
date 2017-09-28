@@ -1,0 +1,5 @@
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Ejercicio colecciones\slnClinica\ent\bin\Debug\ent.dll
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Ejercicio colecciones\slnClinica\ent\bin\Debug\ent.pdb
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Ejercicio colecciones\slnClinica\ent\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Ejercicio colecciones\slnClinica\ent\obj\Debug\ent.dll
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Ejercicio colecciones\slnClinica\ent\obj\Debug\ent.pdb

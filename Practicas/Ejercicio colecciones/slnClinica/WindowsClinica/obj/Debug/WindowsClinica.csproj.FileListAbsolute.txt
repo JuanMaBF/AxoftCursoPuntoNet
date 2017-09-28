@@ -1,0 +1,13 @@
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Ejercicio colecciones\slnClinica\WindowsClinica\bin\Debug\WindowsClinica.exe.config
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Ejercicio colecciones\slnClinica\WindowsClinica\bin\Debug\WindowsClinica.exe
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Ejercicio colecciones\slnClinica\WindowsClinica\bin\Debug\WindowsClinica.pdb
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Ejercicio colecciones\slnClinica\WindowsClinica\bin\Debug\Negocio.dll
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Ejercicio colecciones\slnClinica\WindowsClinica\bin\Debug\ent.dll
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Ejercicio colecciones\slnClinica\WindowsClinica\bin\Debug\Negocio.pdb
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Ejercicio colecciones\slnClinica\WindowsClinica\bin\Debug\ent.pdb
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Ejercicio colecciones\slnClinica\WindowsClinica\obj\Debug\WindowsClinica.csprojResolveAssemblyReference.cache
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Ejercicio colecciones\slnClinica\WindowsClinica\obj\Debug\WindowsClinica.Formulario.resources
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Ejercicio colecciones\slnClinica\WindowsClinica\obj\Debug\WindowsClinica.Properties.Resources.resources
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Ejercicio colecciones\slnClinica\WindowsClinica\obj\Debug\WindowsClinica.csproj.GenerateResource.Cache
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Ejercicio colecciones\slnClinica\WindowsClinica\obj\Debug\WindowsClinica.exe
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Ejercicio colecciones\slnClinica\WindowsClinica\obj\Debug\WindowsClinica.pdb
