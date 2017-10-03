@@ -1,0 +1,5 @@
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Clases\Clase 3\SLNCurso\LibreriaPOO\bin\Debug\LibreriaPOO.dll
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Clases\Clase 3\SLNCurso\LibreriaPOO\bin\Debug\LibreriaPOO.pdb
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Clases\Clase 3\SLNCurso\LibreriaPOO\obj\Debug\LibreriaPOO.csprojResolveAssemblyReference.cache
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Clases\Clase 3\SLNCurso\LibreriaPOO\obj\Debug\LibreriaPOO.dll
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Clases\Clase 3\SLNCurso\LibreriaPOO\obj\Debug\LibreriaPOO.pdb
