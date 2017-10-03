@@ -4,17 +4,17 @@ namespace BO.Entidades
 {
     public class Alumno : Persona
     {
-        public int Legajo { get; set; }
+        public int NroLegajo { get; set; }
 
-        public Alumno(string nombre, string apellido, int dni, string email, string ciudad, int legajo)
+        public Alumno(string nombre, string apellido, int dni, string email, string ciudad, int nroLegajo)
             :base(nombre, apellido, dni, email, ciudad)
         {
-            Legajo = legajo;
+            NroLegajo = nroLegajo;
         }
 
         public override string ToString()
         {
-            return base.ToString() + ". Legajo: " + Legajo.ToString();
+            return base.ToString() + ". Legajo: " + NroLegajo.ToString();
         }
 
     }

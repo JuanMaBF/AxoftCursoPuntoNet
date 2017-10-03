@@ -14,6 +14,7 @@ namespace BO.EntidadesBase
         public int DNI { get; set; }
         public string Email { get; set; }
         public string Ciudad { get; set; }
+        public int Id { get; set; }
         #endregion
 
         public Persona(string nombre, string apellido, int dni, string email, string ciudad)

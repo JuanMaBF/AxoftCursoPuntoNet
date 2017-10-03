@@ -1,19 +1,26 @@
 ﻿using BO.Entidades;
 using System.Collections.Generic;
+using DAL.dac;
 
 namespace Negocio
 {
     public class AdminAlumno
     {
 
-        public void Agregar(Alumno alumno)
-        { }
+        public int Agregar(Alumno alumno)
+        {
+            return dbAlumno.Agregar(alumno);
+        }
 
-        public void Modificar(Alumno alumno)
-        { }
+        public int Modificar(Alumno alumno)
+        {
+            return dbAlumno.Modificar(alumno);
+        }
 
-        public void Eliminar(Alumno alumno)
-        { }
+        public int Eliminar(int idAlumno)
+        {
+            return dbAlumno.Eliminar(idAlumno);
+        }
 
         /// <summary>
         /// Retornar todos los alumnos
@@ -21,7 +28,7 @@ namespace Negocio
         /// <returns>Lista genérica de Alumnos</returns>
         public List<Alumno> TraerTodos()
         {
-            return null;
+            return dbAlumno.TraerTodos();
         }
 
         /// <summary>
@@ -31,7 +38,7 @@ namespace Negocio
         /// <returns>Lista genérica de Alumnos</returns>
         public List<Alumno> TraerTodos(string ciudad)
         {
-            return null;
+            return dbAlumno.TraerTodos(ciudad);
         }
 
     }
