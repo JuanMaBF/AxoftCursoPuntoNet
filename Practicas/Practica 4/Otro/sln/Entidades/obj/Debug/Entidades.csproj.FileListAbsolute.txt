@@ -1,0 +1,9 @@
+D:\CursoNet Gabriela\Alep\Practicas01\Practicas01\Entidades\bin\Debug\Entidades.dll
+D:\CursoNet Gabriela\Alep\Practicas01\Practicas01\Entidades\bin\Debug\Entidades.pdb
+D:\CursoNet Gabriela\Alep\Practicas01\Practicas01\Entidades\obj\Debug\Entidades.dll
+D:\CursoNet Gabriela\Alep\Practicas01\Practicas01\Entidades\obj\Debug\Entidades.pdb
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practica 4\Entidades\bin\Debug\Entidades.dll
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practica 4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practica 4\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practica 4\Entidades\obj\Debug\Entidades.dll
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practica 4\Entidades\obj\Debug\Entidades.pdb

@@ -8,3 +8,8 @@ C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Practica 2\slnCursoNet\En
 C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Practica 2\slnCursoNet\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
 C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Practica 2\slnCursoNet\Entidades\obj\Debug\Entidades.dll
 C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Practica 2\slnCursoNet\Entidades\obj\Debug\Entidades.pdb
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Practica 4\slnCursoNet\Entidades\bin\Debug\Entidades.dll
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Practica 4\slnCursoNet\Entidades\bin\Debug\Entidades.pdb
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Practica 4\slnCursoNet\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Practica 4\slnCursoNet\Entidades\obj\Debug\Entidades.dll
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Practica 4\slnCursoNet\Entidades\obj\Debug\Entidades.pdb

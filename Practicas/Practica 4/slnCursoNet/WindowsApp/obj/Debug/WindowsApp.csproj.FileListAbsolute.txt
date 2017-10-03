@@ -23,3 +23,14 @@ C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Practica 2\slnCursoNet\Wi
 C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Practica 3\slnCursoNet\WindowsApp\bin\Debug\WindowsApp.exe.config
 C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Practica 3\slnCursoNet\WindowsApp\obj\Debug\WindowsApp.exe
 C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Practica 3\slnCursoNet\WindowsApp\obj\Debug\WindowsApp.pdb
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Practica 4\slnCursoNet\WindowsApp\bin\Debug\WindowsApp.exe.config
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Practica 4\slnCursoNet\WindowsApp\obj\Debug\WindowsApp.exe
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Practica 4\slnCursoNet\WindowsApp\obj\Debug\WindowsApp.pdb
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Practica 4\slnCursoNet\WindowsApp\bin\Debug\WindowsApp.exe
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Practica 4\slnCursoNet\WindowsApp\bin\Debug\WindowsApp.pdb
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Practica 4\slnCursoNet\WindowsApp\bin\Debug\Entidades.dll
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Practica 4\slnCursoNet\WindowsApp\bin\Debug\Entidades.pdb
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Practica 4\slnCursoNet\WindowsApp\obj\Debug\WindowsApp.csprojResolveAssemblyReference.cache
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Practica 4\slnCursoNet\WindowsApp\obj\Debug\WindowsApp.Form1.resources
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Practica 4\slnCursoNet\WindowsApp\obj\Debug\WindowsApp.Properties.Resources.resources
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practicas\Practica 4\slnCursoNet\WindowsApp\obj\Debug\WindowsApp.csproj.GenerateResource.Cache
