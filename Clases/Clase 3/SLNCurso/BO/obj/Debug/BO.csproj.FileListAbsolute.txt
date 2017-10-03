@@ -1,0 +1,10 @@
+C:\Users\cursonet\Desktop\Clase 1\SLNCurso\BO\bin\Debug\BO.dll
+C:\Users\cursonet\Desktop\Clase 1\SLNCurso\BO\bin\Debug\BO.pdb
+C:\Users\cursonet\Desktop\Clase 1\SLNCurso\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\cursonet\Desktop\Clase 1\SLNCurso\BO\obj\Debug\BO.dll
+C:\Users\cursonet\Desktop\Clase 1\SLNCurso\BO\obj\Debug\BO.pdb
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Clases\Clase 2\SLNCurso\BO\bin\Debug\BO.dll
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Clases\Clase 2\SLNCurso\BO\bin\Debug\BO.pdb
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Clases\Clase 2\SLNCurso\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Clases\Clase 2\SLNCurso\BO\obj\Debug\BO.dll
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Clases\Clase 2\SLNCurso\BO\obj\Debug\BO.pdb

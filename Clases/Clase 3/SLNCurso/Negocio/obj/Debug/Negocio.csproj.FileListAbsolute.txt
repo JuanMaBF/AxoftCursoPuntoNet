@@ -1,0 +1,16 @@
+C:\Users\cursonet\Desktop\Clase 1\SLNCurso\Negocio\bin\Debug\Negocio.XML
+C:\Users\cursonet\Desktop\Clase 1\SLNCurso\Negocio\bin\Debug\Negocio.dll
+C:\Users\cursonet\Desktop\Clase 1\SLNCurso\Negocio\bin\Debug\Negocio.pdb
+C:\Users\cursonet\Desktop\Clase 1\SLNCurso\Negocio\bin\Debug\BO.dll
+C:\Users\cursonet\Desktop\Clase 1\SLNCurso\Negocio\bin\Debug\BO.pdb
+C:\Users\cursonet\Desktop\Clase 1\SLNCurso\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\cursonet\Desktop\Clase 1\SLNCurso\Negocio\obj\Debug\Negocio.dll
+C:\Users\cursonet\Desktop\Clase 1\SLNCurso\Negocio\obj\Debug\Negocio.pdb
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Clases\Clase 2\SLNCurso\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Clases\Clase 2\SLNCurso\Negocio\obj\Debug\Negocio.dll
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Clases\Clase 2\SLNCurso\Negocio\obj\Debug\Negocio.pdb
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Clases\Clase 2\SLNCurso\Negocio\bin\Debug\Negocio.XML
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Clases\Clase 2\SLNCurso\Negocio\bin\Debug\Negocio.dll
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Clases\Clase 2\SLNCurso\Negocio\bin\Debug\Negocio.pdb
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Clases\Clase 2\SLNCurso\Negocio\bin\Debug\BO.dll
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Clases\Clase 2\SLNCurso\Negocio\bin\Debug\BO.pdb
