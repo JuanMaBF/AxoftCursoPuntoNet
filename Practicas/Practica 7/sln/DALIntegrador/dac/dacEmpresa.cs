@@ -33,7 +33,7 @@ namespace DALIntegrador
 
         public static int Eliminar(int idEmpresa)
         {
-            string query = "DeleteAlumnoPorId";
+            string query = "DeleteEmpresaPorId";
             SqlCommand dmlQuery = new SqlCommand(query, AdminDB.Instance.ConectarDB());
             dmlQuery.CommandType = CommandType.StoredProcedure;
             dmlQuery.Parameters.Add("@Id", SqlDbType.Int).Value = idEmpresa;
@@ -59,7 +59,7 @@ namespace DALIntegrador
 
         public static List<Empresa> TraerTodos(string cuit)
         {
-            string procedure = "TraerTodosPorCiudad";
+            string procedure = "TraerTodosPorCuit";
             SqlCommand command = new SqlCommand(procedure, AdminDB.Instance.ConectarDB());
             command.CommandType = CommandType.StoredProcedure;
             command.Parameters.Add("@Cuit", SqlDbType.VarChar, 50).Value = cuit;
