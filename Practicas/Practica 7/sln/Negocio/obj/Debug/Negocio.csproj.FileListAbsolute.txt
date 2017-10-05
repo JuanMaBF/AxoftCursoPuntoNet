@@ -1,0 +1,14 @@
+D:\CursoNet Gabriela\Alep\Practicas01\Practicas01\Negocio\bin\Debug\Negocio.dll
+D:\CursoNet Gabriela\Alep\Practicas01\Practicas01\Negocio\bin\Debug\Negocio.pdb
+D:\CursoNet Gabriela\Alep\Practicas01\Practicas01\Negocio\bin\Debug\Entidades.dll
+D:\CursoNet Gabriela\Alep\Practicas01\Practicas01\Negocio\bin\Debug\Entidades.pdb
+D:\CursoNet Gabriela\Alep\Practicas01\Practicas01\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\CursoNet Gabriela\Alep\Practicas01\Practicas01\Negocio\obj\Debug\Negocio.dll
+D:\CursoNet Gabriela\Alep\Practicas01\Practicas01\Negocio\obj\Debug\Negocio.pdb
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practica 4\Negocio\bin\Debug\Negocio.dll
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practica 4\Negocio\bin\Debug\Negocio.pdb
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practica 4\Negocio\bin\Debug\Entidades.dll
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practica 4\Negocio\bin\Debug\Entidades.pdb
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practica 4\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practica 4\Negocio\obj\Debug\Negocio.dll
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\Practica 4\Negocio\obj\Debug\Negocio.pdb

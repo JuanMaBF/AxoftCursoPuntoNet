@@ -1,0 +1,9 @@
+﻿namespace DALIntegrador
+{
+    class dacProducto
+    {
+
+
+
+    }
+}
