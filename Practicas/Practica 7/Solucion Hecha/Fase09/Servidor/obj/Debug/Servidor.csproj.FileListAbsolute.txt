@@ -1,0 +1,11 @@
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase09\Servidor\bin\Debug\Servidor.dll.config
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase09\Servidor\bin\Debug\Servidor.dll
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase09\Servidor\bin\Debug\Servidor.pdb
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase09\Servidor\obj\Debug\Servidor.dll
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase09\Servidor\obj\Debug\Servidor.pdb
+\\I3-PC\Recursos 2017\Prácticas\Soluciones\Fase09\Servidor\bin\Debug\Servidor.dll.config
+\\I3-PC\Recursos 2017\Prácticas\Soluciones\Fase09\Servidor\bin\Debug\Servidor.dll
+\\I3-PC\Recursos 2017\Prácticas\Soluciones\Fase09\Servidor\bin\Debug\Servidor.pdb
+\\I3-PC\Recursos 2017\Prácticas\Soluciones\Fase09\Servidor\obj\Debug\Servidor.csprojResolveAssemblyReference.cache
+\\I3-PC\Recursos 2017\Prácticas\Soluciones\Fase09\Servidor\obj\Debug\Servidor.dll
+\\I3-PC\Recursos 2017\Prácticas\Soluciones\Fase09\Servidor\obj\Debug\Servidor.pdb

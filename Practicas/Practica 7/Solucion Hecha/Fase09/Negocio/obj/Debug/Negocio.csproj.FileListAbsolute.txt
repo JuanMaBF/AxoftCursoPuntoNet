@@ -1,0 +1,54 @@
+C:\Users\Pablo\SkyDrive\Projects\IntegradorCS\Fase03\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase03\Negocio\bin\Debug\Negocio.dll
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase03\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase03\Negocio\bin\Debug\Entidades.dll
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase03\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase03\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase03\Negocio\obj\Debug\Negocio.dll
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase03\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase04\Negocio\bin\Debug\Negocio.dll
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase04\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase04\Negocio\bin\Debug\Entidades.dll
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase04\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase04\Negocio\obj\Debug\Negocio.dll
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase04\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase05\Negocio\obj\Debug\Negocio.dll
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase05\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase05\Negocio\bin\Debug\Negocio.dll
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase05\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase05\Negocio\bin\Debug\Entidades.dll
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase05\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase05\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase07\Negocio\bin\Debug\Negocio.dll
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase07\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase07\Negocio\bin\Debug\Entidades.dll
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase07\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase07\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase07\Negocio\obj\Debug\Negocio.dll
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase07\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase09\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase09\Negocio\bin\Debug\Negocio.dll
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase09\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase09\Negocio\bin\Debug\Datos.dll
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase09\Negocio\bin\Debug\Entidades.dll
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase09\Negocio\bin\Debug\Servidor.dll
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase09\Negocio\bin\Debug\Datos.pdb
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase09\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase09\Negocio\bin\Debug\Servidor.pdb
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase09\Negocio\obj\Debug\Negocio.dll
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase09\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase09\Negocio\bin\Debug\Enumeraciones.dll
+C:\Users\Pablo\SkyDrive\Training Samples\Programming .NET\Labs\C#\Fase09\Negocio\bin\Debug\Enumeraciones.pdb
+\\I3-PC\Recursos 2017\Prácticas\Soluciones\Fase09\Negocio\bin\Debug\Negocio.dll
+\\I3-PC\Recursos 2017\Prácticas\Soluciones\Fase09\Negocio\bin\Debug\Negocio.pdb
+\\I3-PC\Recursos 2017\Prácticas\Soluciones\Fase09\Negocio\bin\Debug\Datos.dll
+\\I3-PC\Recursos 2017\Prácticas\Soluciones\Fase09\Negocio\bin\Debug\Entidades.dll
+\\I3-PC\Recursos 2017\Prácticas\Soluciones\Fase09\Negocio\bin\Debug\Enumeraciones.dll
+\\I3-PC\Recursos 2017\Prácticas\Soluciones\Fase09\Negocio\bin\Debug\Servidor.dll
+\\I3-PC\Recursos 2017\Prácticas\Soluciones\Fase09\Negocio\bin\Debug\Datos.pdb
+\\I3-PC\Recursos 2017\Prácticas\Soluciones\Fase09\Negocio\bin\Debug\Entidades.pdb
+\\I3-PC\Recursos 2017\Prácticas\Soluciones\Fase09\Negocio\bin\Debug\Enumeraciones.pdb
+\\I3-PC\Recursos 2017\Prácticas\Soluciones\Fase09\Negocio\bin\Debug\Servidor.pdb
+\\I3-PC\Recursos 2017\Prácticas\Soluciones\Fase09\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+\\I3-PC\Recursos 2017\Prácticas\Soluciones\Fase09\Negocio\obj\Debug\Negocio.dll
+\\I3-PC\Recursos 2017\Prácticas\Soluciones\Fase09\Negocio\obj\Debug\Negocio.pdb
