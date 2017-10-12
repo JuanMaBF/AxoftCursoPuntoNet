@@ -1,0 +1,9 @@
+D:\Recursos 2017\NET Avanzado\Práctica\Lab 01\Solution\Lab 01\WindowsTestEvent\bin\Debug\WindowsTestEvent.exe.config
+D:\Recursos 2017\NET Avanzado\Práctica\Lab 01\Solution\Lab 01\WindowsTestEvent\bin\Debug\WindowsTestEvent.exe
+D:\Recursos 2017\NET Avanzado\Práctica\Lab 01\Solution\Lab 01\WindowsTestEvent\bin\Debug\WindowsTestEvent.pdb
+D:\Recursos 2017\NET Avanzado\Práctica\Lab 01\Solution\Lab 01\WindowsTestEvent\obj\Debug\WindowsTestEvent.csprojResolveAssemblyReference.cache
+D:\Recursos 2017\NET Avanzado\Práctica\Lab 01\Solution\Lab 01\WindowsTestEvent\obj\Debug\WindowsTestEvent.Form1.resources
+D:\Recursos 2017\NET Avanzado\Práctica\Lab 01\Solution\Lab 01\WindowsTestEvent\obj\Debug\WindowsTestEvent.Properties.Resources.resources
+D:\Recursos 2017\NET Avanzado\Práctica\Lab 01\Solution\Lab 01\WindowsTestEvent\obj\Debug\WindowsTestEvent.csproj.GenerateResource.Cache
+D:\Recursos 2017\NET Avanzado\Práctica\Lab 01\Solution\Lab 01\WindowsTestEvent\obj\Debug\WindowsTestEvent.exe
+D:\Recursos 2017\NET Avanzado\Práctica\Lab 01\Solution\Lab 01\WindowsTestEvent\obj\Debug\WindowsTestEvent.pdb
