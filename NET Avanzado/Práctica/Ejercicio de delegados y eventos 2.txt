@@ -1,0 +1,6 @@
+Escriba un programa para la asistencia en línea. 
+
+Las condiciones son las siguientes:
+
+1. El usuario proporciona su nombre como entrada y luego se muestra un mensaje de la aplicación  "Bienvenido a su nombre".
+2. Jack, Steven y Mathew están prohibidos para la organización.  Por lo tanto, cuando cualquier usuario ingresa Jack, Steven y Mathew como nombre de usuario, la aplicación dispara un evento y alarma de incendio, así como envía correo electrónico a la administración.

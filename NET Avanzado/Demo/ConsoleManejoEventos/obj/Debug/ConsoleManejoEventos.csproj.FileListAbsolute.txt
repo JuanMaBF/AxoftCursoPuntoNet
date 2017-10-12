@@ -1,0 +1,7 @@
+D:\Gabriela\Avanzado\ConsoleManejoEventos\ConsoleManejoEventos\obj\Debug\ConsoleManejoEventos.exe
+D:\Gabriela\Avanzado\ConsoleManejoEventos\ConsoleManejoEventos\obj\Debug\ConsoleManejoEventos.pdb
+D:\Gabriela\Avanzado\ConsoleManejoEventos\ConsoleManejoEventos\bin\Debug\ConsoleManejoEventos.exe
+D:\Gabriela\Avanzado\ConsoleManejoEventos\ConsoleManejoEventos\bin\Debug\ConsoleManejoEventos.pdb
+D:\Gabriela\Avanzado\ConsoleManejoEventos\ConsoleManejoEventos\obj\Debug\ConsoleManejoEventos.csprojResolveAssemblyReference.cache
+\\I3-PC\Recursos 2017\NET Avanzado\Demo\ConsoleManejoEventos\obj\Debug\ConsoleManejoEventos.exe
+\\I3-PC\Recursos 2017\NET Avanzado\Demo\ConsoleManejoEventos\obj\Debug\ConsoleManejoEventos.pdb

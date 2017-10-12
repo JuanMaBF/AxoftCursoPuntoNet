@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TPWindowsDelegados.Form1.resources
+obj\Debug\TPWindowsDelegados.Properties.Resources.resources
+obj\Debug\TPWindowsDelegados.csproj.GenerateResource.Cache
+bin\Debug\TPWindowsDelegados.exe
+bin\Debug\TPWindowsDelegados.pdb
+obj\Debug\TPWindowsDelegados.exe
+obj\Debug\TPWindowsDelegados.pdb

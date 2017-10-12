@@ -1,0 +1,5 @@
+bin\Debug\DelegateCSII.exe
+bin\Debug\DelegateCSII.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DelegateCSII.exe
+obj\Debug\DelegateCSII.pdb

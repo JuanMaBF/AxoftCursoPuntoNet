@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSystemWatcher", "FileSystemWatcher\FileSystemWatcher.csproj", "{0A91FE23-76B8-436C-95A5-E946B1E5F1CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWMonitor", "AWMonitor\AWMonitor.csproj", "{388D027B-C4E2-4344-93E1-433093736FDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsTestEvent", "WindowsTestEvent\WindowsTestEvent.csproj", "{295732F1-DA27-4DA6-9E50-2C3971775E2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A91FE23-76B8-436C-95A5-E946B1E5F1CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A91FE23-76B8-436C-95A5-E946B1E5F1CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A91FE23-76B8-436C-95A5-E946B1E5F1CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A91FE23-76B8-436C-95A5-E946B1E5F1CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{388D027B-C4E2-4344-93E1-433093736FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{388D027B-C4E2-4344-93E1-433093736FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{388D027B-C4E2-4344-93E1-433093736FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{388D027B-C4E2-4344-93E1-433093736FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{295732F1-DA27-4DA6-9E50-2C3971775E2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{295732F1-DA27-4DA6-9E50-2C3971775E2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{295732F1-DA27-4DA6-9E50-2C3971775E2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{295732F1-DA27-4DA6-9E50-2C3971775E2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

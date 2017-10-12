@@ -1,0 +1,5 @@
+D:\Gabriela\Axoft gaby\avanzado\Delegados\DelegateCS\DelegateCS\obj\Debug\DelegateCS.exe
+D:\Gabriela\Axoft gaby\avanzado\Delegados\DelegateCS\DelegateCS\obj\Debug\DelegateCS.pdb
+D:\Gabriela\Axoft gaby\avanzado\Delegados\DelegateCS\DelegateCS\bin\Debug\DelegateCS.exe
+D:\Gabriela\Axoft gaby\avanzado\Delegados\DelegateCS\DelegateCS\bin\Debug\DelegateCS.pdb
+D:\Gabriela\Axoft gaby\avanzado\Delegados\DelegateCS\DelegateCS\obj\Debug\DelegateCS.csprojResolveAssemblyReference.cache
