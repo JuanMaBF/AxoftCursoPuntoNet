@@ -1,0 +1,2 @@
+\\I3-PC\Recursos 2017\NET Avanzado\Práctica\Lab 01\Solution\Lab 01\AWMonitor\obj\Debug\AWMonitor.exe
+\\I3-PC\Recursos 2017\NET Avanzado\Práctica\Lab 01\Solution\Lab 01\AWMonitor\obj\Debug\AWMonitor.pdb

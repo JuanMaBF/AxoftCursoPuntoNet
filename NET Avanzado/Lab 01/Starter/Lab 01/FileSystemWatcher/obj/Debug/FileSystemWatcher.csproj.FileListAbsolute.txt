@@ -1,0 +1,5 @@
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\NET Avanzado\Lab 01\Starter\Lab 01\FileSystemWatcher\bin\Debug\FileSystemWatcher.dll
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\NET Avanzado\Lab 01\Starter\Lab 01\FileSystemWatcher\bin\Debug\FileSystemWatcher.pdb
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\NET Avanzado\Lab 01\Starter\Lab 01\FileSystemWatcher\obj\Debug\FileSystemWatcher.csprojResolveAssemblyReference.cache
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\NET Avanzado\Lab 01\Starter\Lab 01\FileSystemWatcher\obj\Debug\FileSystemWatcher.dll
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\NET Avanzado\Lab 01\Starter\Lab 01\FileSystemWatcher\obj\Debug\FileSystemWatcher.pdb

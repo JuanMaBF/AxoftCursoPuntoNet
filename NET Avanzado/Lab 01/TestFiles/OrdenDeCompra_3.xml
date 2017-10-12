@@ -1,0 +1,1 @@
+<Purchasing.PurchaseOrderHeader PurchaseOrderID="100003" RevisionNumber="0" Status="4" EmployeeID="241" VendorID="38" ShipMethodID="2" OrderDate="2001-05-17T00:00:00" ShipDate="2001-05-26T00:00:00" SubTotal="8847.3000" TaxAmt="707.7840" Freight="221.1825" TotalDue="9776.2665" ModifiedDate="2001-05-26T00:00:00"/>
