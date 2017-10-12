@@ -5,3 +5,5 @@ D:\Gabriela\Avanzado\ConsoleManejoEventos\ConsoleManejoEventos\bin\Debug\Console
 D:\Gabriela\Avanzado\ConsoleManejoEventos\ConsoleManejoEventos\obj\Debug\ConsoleManejoEventos.csprojResolveAssemblyReference.cache
 \\I3-PC\Recursos 2017\NET Avanzado\Demo\ConsoleManejoEventos\obj\Debug\ConsoleManejoEventos.exe
 \\I3-PC\Recursos 2017\NET Avanzado\Demo\ConsoleManejoEventos\obj\Debug\ConsoleManejoEventos.pdb
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\NET Avanzado\Demo\ConsoleManejoEventos\obj\Debug\ConsoleManejoEventos.exe
+C:\Users\cursonet\Desktop\AxoftCursoPuntoNet\NET Avanzado\Demo\ConsoleManejoEventos\obj\Debug\ConsoleManejoEventos.pdb
