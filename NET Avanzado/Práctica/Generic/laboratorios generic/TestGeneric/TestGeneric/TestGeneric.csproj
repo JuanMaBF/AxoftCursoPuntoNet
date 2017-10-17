@@ -46,6 +46,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TiposGenericos\Domain.cs" />
+    <Compile Include="TiposGenericos\Generator.cs" />
     <Compile Include="TiposGenericos\Operaciones.cs" />
   </ItemGroup>
   <ItemGroup>

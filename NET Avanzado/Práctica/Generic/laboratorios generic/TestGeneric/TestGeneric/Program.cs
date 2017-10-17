@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using TestGeneric.TiposGenericos;
 
 namespace TestGeneric
@@ -25,13 +26,15 @@ namespace TestGeneric
             Operaciones<int>.Intercambio(ref int1, ref int2);
             Console.WriteLine("Int 1 = " + int1);
             Console.WriteLine("Int 2 = " + int2);
-            Console.ReadKey();*/
+            Console.ReadKey();
 
             Domain<int> domainInt = new Domain<int>(11);
             Domain<string> stringInt = new Domain<string>("i de");
             Domain<DateTime> dateTimeInt = new Domain<DateTime>(DateTime.Now);
-            Domain<Object> objectInt = new Domain<Object>(new object());
+            Domain<Object> objectInt = new Domain<Object>(new object());*/
 
+            Generator<List<string>>.Show(new List<string>() { "1423", "41234123", "fasdfad" });
+            Console.ReadKey();
         }
     }
 }
