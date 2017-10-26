@@ -6,9 +6,10 @@ namespace TP2Producto.Mapping
     public class ProductSubcategoryMapping : EntityTypeConfiguration<ProductSubcategory>
     {
 
-        public ProductMapping()
+        public ProductSubcategoryMapping()
         {
-
+            HasKey(s => s.ProductSubcategoryID);
+            Property(s => s.Name).HasMaxLength(50);
         }
 
     }

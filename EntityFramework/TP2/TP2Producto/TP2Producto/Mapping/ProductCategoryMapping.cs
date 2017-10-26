@@ -8,7 +8,8 @@ namespace TP2Producto.Mapping
 
         public ProductCategoryMapping()
         {
-
+            HasKey(c => c.ProductCategoryID);
+            Property(c => c.Name).HasMaxLength(50);
         }
 
     }
