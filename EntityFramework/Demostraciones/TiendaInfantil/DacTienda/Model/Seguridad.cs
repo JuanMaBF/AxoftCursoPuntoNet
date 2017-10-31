@@ -1,6 +1,7 @@
 ﻿namespace DacTienda.Model
 {
-    class Seguridad
+    public class Seguridad
     {
+
     }
 }

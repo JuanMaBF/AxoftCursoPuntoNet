@@ -4,6 +4,7 @@ namespace DacTienda.Model
 {
     public class Producto
     {
+        public int ID_Producto { get; set; }
         public string CodProducto { get; set; }
         public string Tipo { get; set; }
         public CodigoGenero Sexo { get; set; }
